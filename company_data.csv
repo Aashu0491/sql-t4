@@ -1,0 +1,21 @@
+"dept_no","dept_name","dept_email","location","status"
+1,"marketing","marketing@company.com","delhi               ",NULL
+2,"IT","it@company.com","Kolkata             ",NULL
+3,"Shipping","shipping@company.com","Lucknow             ",NULL
+4,"Executive","executive@company.com","Banglore            ",NULL
+5,"operation","operation@company.com","Paris               ",NULL
+6,"Finance","finance@company.com","New York            ",NULL
+7,"Purchase","purchase@company.com","london              ",NULL
+8,"HR","hr@company.com","Dubai               ",NULL
+9,"Sales","sales@company.com","Mumbai              ",NULL
+10,"Accounting","accounting@company.com","USA                 ",NULL
+11,"construction","construction@company.com","New Delhi           ",NULL
+12,"Research and Development","researchanddevelopment@company.com","Europe              ",NULL
+13,"Business Administration","ba@company.com","Nagpur              ",NULL
+14,"Production","production@company.com","chennai             ",NULL
+15,"Design","design@company.com","Hyderabad           ",NULL
+16,"Maintenance","maintenance@company.com","Pune                ",NULL
+17,"Services","services@company.com","England             ",NULL
+18,"Quality management","qualitymanagement@company.com","bangkok             ",NULL
+19,"Administration","administration@company.com","Jabalpur            ",NULL
+20,"Legal Department","legal@company.com","Nanded              ",NULL
